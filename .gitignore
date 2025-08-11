@@ -7,3 +7,5 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+pyspark_notebooks/artifact/
+pyspark_notebooks/artifacts/
